@@ -1,4 +1,4 @@
-/*Assignment: Setting up your dev environment
+Assignment: Setting up your dev environment
 
 For next class, please install all the prerequisite tools and software to be ready to begin mobile application development on your computer and phone.
 
@@ -35,4 +35,4 @@ npm install --global expo-cli
 7. If you are on Mac, download Xcode
 
 Install Xcode commandline tools
-xcode-select –install*/
+xcode-select –install
